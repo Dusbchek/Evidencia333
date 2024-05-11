@@ -1,0 +1,8 @@
+[
+  { "nombre": "Producto1", "stock": 10, "marcaNombre": "Marca1" },
+  { "nombre": "Producto2", "stock": 15, "marcaNombre": "Marca2" },
+  { "nombre": "Producto3", "stock": 20, "marcaNombre": "Marca3" },
+  { "nombre": "Producto4", "stock": 12, "marcaNombre": "Marca4" },
+  { "nombre": "Producto5", "stock": 8, "marcaNombre": "Marca5" },
+  { "nombre": "Producto6", "stock": 5, "marcaNombre": "Marca6" }
+]

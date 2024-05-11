@@ -1,0 +1,12 @@
+Air_Force,100,1
+Jordan,20,1
+Yeezy,40,2
+Camisa_tigres,400,2
+Camisa_rayados,300,3
+Balon,90,3
+Camisa_cuervosFC,34,4
+Mochila,96,4
+CamisaPirma,56,5
+TennisPirma,67,5
+CamisaReebok,56,6
+Mochila_Reebok,67,6

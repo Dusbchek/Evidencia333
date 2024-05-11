@@ -1,0 +1,8 @@
+[
+  { "nombre": "Marca1" },
+  { "nombre": "Marca2" },
+  { "nombre": "Marca3" },
+  { "nombre": "Marca4" },
+  { "nombre": "Marca5" },
+  { "nombre": "Marca6" }
+]

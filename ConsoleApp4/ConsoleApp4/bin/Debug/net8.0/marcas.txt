@@ -1,0 +1,6 @@
+Nike,Estados_Unidos,Air_Force;Jordan
+Adidas,Alemania,Yeezy;Camisa_tigres
+Puma,Alemania,Camisa_rayados;Balon
+Charly,Mexico,Camisa_cuervosFC;Mochila
+Pirma,Mexico,CamisaPirma;TennisPirma
+Reebok,Mexico,CamisaReebok;Mochila_Rebook
